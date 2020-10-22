@@ -1,4 +1,5 @@
 src/docs/* linguist-documentation
+src/docs/* linguist-documentation
 scripts/* linguist-documentation
 gatsby-browser.js linguist-documentation
 gatsby-config.js linguist-documentation
